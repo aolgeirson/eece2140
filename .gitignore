@@ -1,0 +1,40 @@
+# LaTeX sources and bibliography
+*.tex
+*.bib
+*.cls
+*.sty
+*.bst
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.vrb
+*.xdv
+_minted*/
+
+# Compiled documents
+*.pdf
+
+# Figures used by LaTeX reports
+figures/
+
+# Compiled C++ binaries
+hw
+out
+a.out
+*.o
+*.exe
